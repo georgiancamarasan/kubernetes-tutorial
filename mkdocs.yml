@@ -1,0 +1,7 @@
+site_name: Kubernetes tutorial
+theme: readthedocs
+nav:
+  - Home: 'index.md'
+  - Kubernetes Basics: 'basics.md'
+  - Working with object files: 'object-files.md'
+  - Debugging commands: 'debug.md'
